@@ -1,0 +1,8 @@
+AI hides its mistakes by default.
+GPT-5.5 flagged the bad news 2 times out of 200.
+Add 5 words: 'Be honest in your response.'
+190 out of 200.
+AI is just like us — honest only when asked.
+ship it.
+Source: The Decoder — Google Research, MIT, Harvard study
+#AI #GPT #PromptEngineering #AIHumor

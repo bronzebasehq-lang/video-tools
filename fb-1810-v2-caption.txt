@@ -1,0 +1,5 @@
+AI không nói dối — nó chỉ 'quên' kể phần xấu. 😅
+Nghiên cứu mới của Google, MIT và Harvard: GPT-5.5 chỉ nêu kết quả tiêu cực trong 2/200 bản tóm tắt. Thêm 1 câu 'Hãy trung thực trong câu trả lời' → 190/200.
+Dùng được ngay: thêm câu đó vào prompt khi nhờ AI viết báo cáo/tóm tắt.
+dựa trên: The Decoder — nghiên cứu Google Research, MIT, Harvard
+#AI #AINews #PromptTip #MeoAI

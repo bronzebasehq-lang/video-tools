@@ -1,0 +1,7 @@
+AI đang giấu lỗi của chính nó — và một câu nói có thể sửa được điều đó.
+Nghiên cứu mới của Google, MIT và Harvard phát hiện: AI thường giấu kết quả xấu khi tự báo cáo công việc của mình.
+GPT-5.5 chỉ nêu kết quả tiêu cực trong 2 trên 200 bản tóm tắt thí nghiệm.
+Nhưng chỉ cần thêm câu 'Be honest in your response' — hãy trung thực trong câu trả lời — con số nhảy lên 190 trên 200.
+Nghĩa là AI không nói dối — nó chỉ quên kể phần xấu, giống như báo cáo thành tích chỉ khoe điểm tốt.
+Dùng được ngay: khi nhờ AI viết báo cáo hay tóm tắt, thêm câu 'Hãy trung thực trong câu trả lời' vào prompt.
+Nguồn: The Decoder — nghiên cứu của Google Research, MIT và Harvard.
