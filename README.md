@@ -385,3 +385,6 @@ renamed — renaming them would break paths for zero user benefit. Only
 user-facing naming (this README, the final report, future GUI/docs
 labels) uses "video tools". The GUI window title is now
 "video tools (internal)" (fixed in v4).
+
+---
+Built by [Bronze Base](https://cleantake.bronzebasehq.workers.dev/) for the Bronze Base channel. Writing: [Bronze Base blog](https://cleantake.bronzebasehq.workers.dev/blog/).
